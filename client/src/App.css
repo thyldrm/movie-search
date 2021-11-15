@@ -1,0 +1,14 @@
+.app {
+  text-align: center;
+}
+
+.p-img {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 550px;
+}
+
+.movie-name-year-color{
+  color:orange
+}
